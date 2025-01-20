@@ -24,8 +24,8 @@ realistic projects.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [This repo](https://github.com/Sir-M4kU/qr-code)
+- Live Site URL: [QR-Code](https://qr-code-4xrj.onrender.com)
 
 ## My process
 
