@@ -25,7 +25,7 @@ realistic projects.
 ### Links
 
 - Solution URL: [This repo](https://github.com/Sir-M4kU/qr-code)
-- Live Site URL: [QR-Code](https://qr-code-4xrj.onrender.com)
+- Live Site URL: [QR-Code](https://qr-code-bi7.pages.dev)
 
 ## My process
 
